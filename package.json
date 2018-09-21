@@ -1,0 +1,20 @@
+{
+    "name": "BikeRentalIota",
+    "version": "0.0.1",
+    "description": "A bike rental appliaction that does transaction in tangle, and payment done by IOTA wallet",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "transaction",
+      "IOTA",
+      "tangle"
+    ],
+    "author": "@geekyninja",
+    "license": "MIT",
+    "dependencies": {
+      "iota.lib.js": "^0.4.7",
+      "socket.io":"2.1.1"
+    }
+  }
